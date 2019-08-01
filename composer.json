@@ -1,0 +1,13 @@
+{
+    "name": "polyfony-inc/laravel-toolbox",
+    "description": "Polyfony's toolbox for Laravel",
+    "type": "library",
+    "homepage": "https://github.com/polyfony-inc/laravel-toolbox",
+    "authors": [
+        {
+            "name": "Julien",
+            "email": "nospam.github@gribouille.eu"
+        }
+    ],
+    "require": {}
+}
